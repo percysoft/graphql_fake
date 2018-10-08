@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "json-graphql-server": "^2.1.2"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
   }
 }
